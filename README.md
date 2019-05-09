@@ -1,13 +1,2 @@
 # TSD-Project
-Virtual notebook project using Java, HTML, CSS, JS and OracleSQL.
-
-##Tasks
- - Create Database <-
- - Design <-
- - Back-end <-
- - Front-end <-
- - Save button <-
- - Load Button <-
- 
- - Connect front-end to back-end 
- - Connect back-end to database
+Virtual notebook project using an MVC with C# (.net core), HTML, CSS, and SQLite.
